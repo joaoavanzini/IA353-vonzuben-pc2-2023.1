@@ -9,7 +9,7 @@ Atividade 07: [PC2_Ativ7_AE_MNIST_plus.ipynb](./PC2_Ativ7_AE_MNIST_plus.ipynb)</
 Atividade 08: [PC2_Ativ8_GAN_MNIST.ipynb](./PC2_Ativ8_GAN_MNIST.ipynb)</br>
 Atividade 08: [PC2_Ativ8_GAN_FASHION_MNIST.ipynb](./PC2_Ativ8_GAN_FASHION_MNIST.ipynb)</br>
 Atividade 09: [PC2_Ativ9_PLN_LSTM.ipynb](./PC2_Ativ9_PLN_LSTM.ipynb)</br>
-
+Atividade 10: [PC2_Ativ10_RL_Maze_gc](PC2_Ativ10_RL_Maze_gc.ipynb)</br>
 ---
 
 Imagens: <br>
